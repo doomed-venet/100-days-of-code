@@ -17,3 +17,14 @@
 
 
 **Thoughts:**It was a busy day. Yet I was able to complete today's tasks somehow.(Had to miss Der Klassiker for that though :p ). I need to work on my speed and concentration more. Looking forward to tomorrow's tasks.
+
+
+
+# 100 Days Of Code - Log
+
+### Day 2: May 27, 2020 
+
+
+**Today's Progress**: Learned about tuples in Python; tried doing a couple of problems in it. Also tried doing a few problem on Vectors in C++; Naah! I'm still stuck in it ;( !! 
+
+**Thoughts:**  I can feel the improvement in my ability to sit and code. Struggled with the task today but learned a lot while trying to solve it. 
