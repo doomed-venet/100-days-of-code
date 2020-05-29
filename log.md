@@ -38,3 +38,17 @@
 **Today's Progress**: Tried some more problems on tuples in Python;  Carried on with  Vectors in C++.
 
 **Thoughts:**  A very challenging day. Learning how write a program is fine, but solving an problem takes much more than that. Still a lot of work to do, a long way to go. 
+
+
+
+# 100 Days Of Code - Log
+
+### Day 4: May 29, 2020 
+
+
+**Today's Progress**: Was stuck on Vectors in C++, the entire evening. 
+
+**Thoughts:**  Totally drained today, and somehow, that's satisfying. Need to be more careful while coding. Silly mistakes are haunting me.
+
+
+
