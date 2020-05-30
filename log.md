@@ -51,4 +51,14 @@
 **Thoughts:**  Totally drained today, and somehow, that's satisfying. Need to be more careful while coding. Silly mistakes are haunting me.
 
 
+# 100 Days Of Code - Log
+
+### Day 5: May 30, 2020 
+
+
+**Today's Progress**: Tried my hands on a few introduction problems on @hackerrank. 
+Also, managed to do the problem in vectors that I was stuck on. 
+
+
+**Thoughts:** Nothing feels better than seeing all test cases being satisfied! Looking forward to tomorrow's challenges. 
 
