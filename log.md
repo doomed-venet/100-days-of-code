@@ -62,3 +62,14 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Thoughts:** Nothing feels better than seeing all test cases being satisfied! Looking forward to tomorrow's challenges. 
 
+
+# 100 Days Of Code - Log
+
+### Day 6: May 31, 2020 
+
+
+**Today's Progress**: Tried the basics of iteration through a CSV file to create dictionaries, and collect summary statistics, without using Pandas.
+
+
+**Thoughts:** Learning something new everyday is just as satisfying as realizing that you remember what you learned yesterday.
+
