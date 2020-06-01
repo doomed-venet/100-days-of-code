@@ -73,3 +73,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Thoughts:** Learning something new everyday is just as satisfying as realizing that you remember what you learned yesterday.
 
+
+# 100 Days Of Code - Log
+
+### Day 7: June 1, 2020 
+
+
+**Today's Progress**: Learned about the various functions in NumPy module in Python and tried to implement them for better understanding. 
+
+
+**Thoughts:** Couldn't code much today. Not satisfied.
