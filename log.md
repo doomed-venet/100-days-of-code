@@ -83,3 +83,14 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 
 **Thoughts:** Couldn't code much today. Not satisfied.
+
+
+# 100 Days Of Code - Log
+
+### Day 8: June 2, 2020 
+
+
+**Today's Progress**: Tried several problems on dictionaries and lists in Python. Exception handling, using functions to make an interactive dictionary and iterating through the dictionaries were some of the topic I worked on today.
+
+
+**Thoughts:** Really glad to see that I haven't forgotten what I learned a few days ago. At the same time I come to realize how important is practice in coding. 
