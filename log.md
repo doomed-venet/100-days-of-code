@@ -94,3 +94,16 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 
 **Thoughts:** Really glad to see that I haven't forgotten what I learned a few days ago. At the same time I come to realize how important is practice in coding. 
+
+
+# 100 Days Of Code - Log
+
+### Day 9: June 3, 2020 
+
+
+**Today's Progress**: Studied about Series and  Dataframes in Python. Explored OS and CSV modules in python.Wrote some programs using all these.
+
+
+**Thoughts:** Really enjoyed learning today. Especially working on CSV files; simple and fun. Found this video helpful- https://youtu.be/q5uM4VKywbA . A productive day, indeed!
+
+
