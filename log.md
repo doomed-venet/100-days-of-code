@@ -107,3 +107,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 **Thoughts:** Really enjoyed learning today. Especially working on CSV files; simple and fun. Found this video helpful- https://youtu.be/q5uM4VKywbA . A productive day, indeed!
 
 
+# 100 Days Of Code - Log
+
+### Day 10: June 4, 2020 
+
+
+**Today's Progress**: Learned the basic methods and functions of pandas dataframes  in Python. Implemented them in a few programs in which I tried to access and analyse data in CSV files. 
+
+
+**Thoughts:**  Could have done more progress today. Need to focus some more!
+
