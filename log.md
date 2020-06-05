@@ -117,3 +117,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Thoughts:**  Could have done more progress today. Need to focus some more!
 
+
+# 100 Days Of Code - Log
+
+### Day 11: June 5, 2020 
+
+
+**Today's Progress**: Tried some problems on pandas dataframes and series. Optimized a few of my previous programs using psndas. 
+
+
+**Thoughts:**  Pandas functions and methods are really handy. Reduced the complexity and volume of my programs significantly.
