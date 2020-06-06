@@ -127,3 +127,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 
 **Thoughts:**  Pandas functions and methods are really handy. Reduced the complexity and volume of my programs significantly.
+
+
+# 100 Days Of Code - Log
+
+### Day 12: June 5, 2020 
+
+
+**Today's Progress**: Configured my first project specific  conda environment. Planning to start a new beginner level project . Will add it here soon!
+
+**Thoughts:**  After working is chaos for so long, I felt it's time to make things more systematic .
