@@ -131,9 +131,19 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 # 100 Days Of Code - Log
 
-### Day 12: June 5, 2020 
+### Day 12: June 6, 2020 
 
 
 **Today's Progress**: Configured my first project specific  conda environment. Planning to start a new beginner level project . Will add it here soon!
 
 **Thoughts:**  After working is chaos for so long, I felt it's time to make things more systematic .
+
+
+# 100 Days Of Code - Log
+
+### Day 13: June 7, 2020 
+
+
+**Today's Progress**: Learned about querying and indexing in Dataframes. Tried a few problems but got very confused and mixed up🥴.  
+
+**Thoughts:**  Learning, forgeting and remembering is the part of the process I guess. Looking forward to tomorrow!
