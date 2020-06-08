@@ -147,3 +147,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 **Today's Progress**: Learned about querying and indexing in Dataframes. Tried a few problems but got very confused and mixed up.  
 
 **Thoughts:**  Learning, forgeting and remembering is the part of the process I guess. Looking forward to tomorrow!
+
+
+# 100 Days Of Code - Log
+
+### Day 14: June 8, 2020 
+
+
+**Today's Progress**: Tried some problems on querying, indexing  in Dataframes. Cleared most of the doubts I had yesterday and was able to implement them into a couple of datasets. 
+
+**Thoughts:**  Gonna shift gears soon and try more challenging problems.
