@@ -157,3 +157,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 **Today's Progress**: Tried some problems on querying, indexing  in Dataframes. Cleared most of the doubts I had yesterday and was able to implement them into a couple of datasets. 
 
 **Thoughts:**  Gonna shift gears soon and try more challenging problems.
+
+
+# 100 Days Of Code - Log
+
+### Day 15: June 9, 2020 
+
+
+**Today's Progress**: Learned about merging dataframes . Tried a few problems in it and was able to understand it quite well. 
+
+**Thoughts:**  Couldn't do much progress today, so that's a bit disappointing. The learning streak is on though.
