@@ -177,3 +177,14 @@ Also, managed to do the problem in vectors that I was stuck on.
 **Today's Progress**: Learned about groupby function in pandas and tried  learn how to write idiomatic pandas codes. Tried a few problems in it but there's still some grey area. 
 
 **Thoughts:**  Not a bad day but couldn't give more time to coding and was stuck with the theoretical stuff mostly.
+
+
+
+# 100 Days Of Code - Log
+
+### Day 17: June 11, 2020 
+
+
+**Today's Progress**: Studied about pointers , references,  function pointers, heap memory allocation and dynamic memory allocation. Tried a couple of problems from each of these topics. 
+
+**Thoughts:**  Not much, but I need to be absolutely clear in these fundamentals so it's worth it.
