@@ -188,3 +188,14 @@ Also, managed to do the problem in vectors that I was stuck on.
 **Today's Progress**: Studied about pointers , references,  function pointers, heap memory allocation and dynamic memory allocation. Tried a couple of problems from each of these topics. 
 
 **Thoughts:**  Not much, but I need to be absolutely clear in these fundamentals so it's worth it.
+
+
+# 100 Days Of Code - Log
+
+### Day 18: June 12, 2020 
+
+
+**Today's Progress**: Read about how to access , iterate and edit an excel file in Python. Tried a task of filtering and organizing data in an excel file using pandas and other methods available in Python. 
+
+**Thoughts:**  Turns out that filtering and organizing data is far more tedious than analysing it.
+
