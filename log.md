@@ -199,3 +199,13 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Thoughts:**  Turns out that filtering and organizing data is far more tedious than analysing it.
 
+
+
+# 100 Days Of Code - Log
+
+### Day 19: June 13, 2020 
+
+
+**Today's Progress**: Tried  problems on data cleaning today. Basically, used whatever I've learned till now to make  a raw dataset usable for further analysis.  Next, I'll be doing specific problems on this dataset in jupyter notebook.
+
+**Thoughts:** Domain knowledge is very important in data science. Proper understanding of the data makes operating on it a lot easier. 
