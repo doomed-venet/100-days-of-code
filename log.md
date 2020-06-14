@@ -209,3 +209,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 **Today's Progress**: Tried  problems on data cleaning today. Basically, used whatever I've learned till now to make  a raw dataset usable for further analysis.  Next, I'll be doing specific problems on this dataset in jupyter notebook.
 
 **Thoughts:** Domain knowledge is very important in data science. Proper understanding of the data makes operating on it a lot easier. 
+
+
+# 100 Days Of Code - Log
+
+### Day 20: June 14, 2020 
+
+
+**Today's Progress**: Tried  problems on merge and groupby functions today. 
+**Thoughts:** Couldn't spend much time on learning today. Didn't feel like it. 
