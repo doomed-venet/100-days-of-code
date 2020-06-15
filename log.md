@@ -218,3 +218,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Tried  problems on merge and groupby functions today. 
 **Thoughts:** Couldn't spend much time on learning today. Didn't feel like it. 
+
+
+# 100 Days Of Code - Log
+
+### Day 21: June 15, 2020 
+
+
+**Today's Progress**: Still doing the assignment I started day-before yesterday. Working on them is helping me understand the functions more vividly.
+**Thoughts:** Learning is on and it's satisfyingto know I'm utilizing every day.
