@@ -227,3 +227,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Still doing the assignment I started day-before yesterday. Working on them is helping me understand the functions more vividly.
 **Thoughts:** Learning is on and it's satisfyingto know I'm utilizing every day.
+
+
+# 100 Days Of Code - Log
+
+### Day 22: June 16, 2020 
+
+
+**Today's Progress**: Learned about multi-indexing , groupby and bins in pandas today. Did a problem based on the mentioned topics. 
+**Thoughts:** This video by @justmarkham was very helpful in understanding all these topics, especially multi-indexing. https://youtu.be/tcRGa2soc-c
