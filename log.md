@@ -236,3 +236,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Learned about multi-indexing , groupby and bins in pandas today. Did a problem based on the mentioned topics. 
 **Thoughts:** This video by @justmarkham was very helpful in understanding all these topics, especially multi-indexing. https://youtu.be/tcRGa2soc-c
+
+
+# 100 Days Of Code - Log
+
+### Day 23: June 17, 2020 
+
+
+**Today's Progress**: Completed the pandas problems I was stuck on for five days. Learned about simple linear regression and tried it on an example dataset. 
+**Thoughts:** Persistence is the key.
