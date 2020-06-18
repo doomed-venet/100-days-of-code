@@ -245,3 +245,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Completed the pandas problems I was stuck on for five days. Learned about simple linear regression and tried it on an example dataset. 
 **Thoughts:** Persistence is the key.
+
+
+# 100 Days Of Code - Log
+
+### Day 24: June 18, 2020 
+
+
+**Today's Progress**: Learned about binomial distribution  distribution in NumPy today. Used that in simulating some simple cases, just to get an idea on it.  Also started with hypothesis testing in python.
+**Thoughts:** Learned something new and out of my comfort zone – Statistics. Well, it's very crucial in Data science so , I must.
