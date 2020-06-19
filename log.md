@@ -254,3 +254,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Learned about binomial distribution  distribution in NumPy today. Used that in simulating some simple cases, just to get an idea on it.  Also started with hypothesis testing in python.
 **Thoughts:** Learned something new and out of my comfort zone – Statistics. Well, it's very crucial in Data science so , I must.
+
+
+# 100 Days Of Code - Log
+
+### Day 25: June 19, 2020 
+
+
+**Today's Progress**: Started with machine learning today. Learned about supervised learning and unsupervised learning. Witnessed how a classification problem works by studying the famous classification problem – the Iris dataset. 
+**Thoughts:** Taking baby steps towards the goal!
