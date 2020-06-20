@@ -263,3 +263,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Started with machine learning today. Learned about supervised learning and unsupervised learning. Witnessed how a classification problem works by studying the famous classification problem – the Iris dataset. 
 **Thoughts:** Taking baby steps towards the goal!
+
+
+# 100 Days Of Code - Log
+
+### Day 26: June 20, 2020 
+
+
+**Today's Progress**: Learned about linear regression. Started with univariate linear regression. Read about model representation, cost function and how to use Gradient descent algorithm on the cost function. 
+**Thoughts:** Taking baby steps towards the goal!
