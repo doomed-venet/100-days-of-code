@@ -272,3 +272,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**: Learned about linear regression. Started with univariate linear regression. Read about model representation, cost function and how to use Gradient descent algorithm on the cost function. 
 **Thoughts:** Taking baby steps towards the goal!
+
+
+# 100 Days Of Code - Log
+
+### Day 27: June 21, 2020 
+
+
+**Today's Progress**:  Tried a problem on hypothesis testing today. Had to use scipy and pandas for it. Took a long time to clean the raw data for testing. Debugging the codes wasn't easy either😅. Learned many new things.
+**Thoughts:** Just another productive day
