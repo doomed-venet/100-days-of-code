@@ -281,3 +281,12 @@ Also, managed to do the problem in vectors that I was stuck on.
 
 **Today's Progress**:  Tried a problem on hypothesis testing today. Had to use scipy and pandas for it. Took a long time to clean the raw data for testing. Debugging the codes wasn't easy either😅. Learned many new things.
 **Thoughts:** Just another productive day
+
+
+# 100 Days Of Code - Log
+
+### Day 28: June 22, 2020 
+
+
+**Today's Progress**:  Was able to implement ttest_ind of scipy module for performing hypothesis testing in my dataset. Had to learn some statistics to actually understand that.
+**Thoughts**: But it was nice to change the topic for a while. It's funny how the thing that makes data science difficult is also what makes it interesting.
