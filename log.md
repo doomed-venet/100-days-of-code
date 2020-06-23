@@ -262,3 +262,12 @@
 **Today's Progress**:  Was able to implement ttest_ind of scipy module for performing hypothesis testing in my dataset. Had to learn some statistics to actually understand that.
 
 **Thoughts**: But it was nice to change the topic for a while. It's funny how the thing that makes data science difficult is also what makes it interesting.
+
+
+# 100 Days Of Code - Log
+
+### Day 29: June 23, 2020 
+
+**Today's Progress**: Learned about multivariate linear regression and polynomial regression today. Learned to implement gradient descent for multiple variables, need of feature scaling in regression, ways to know if descent rate is suitable and how to change it accordingly. 
+
+**Thoughts** : More time spenton learning today rather than coding, but i knowi can cover that up later, if I am firm with concepts
