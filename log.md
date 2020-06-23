@@ -270,4 +270,4 @@
 
 **Today's Progress**: Learned about multivariate linear regression and polynomial regression today. Learned to implement gradient descent for multiple variables, need of feature scaling in regression, ways to know if descent rate is suitable and how to change it accordingly. 
 
-**Thoughts** : More time spenton learning today rather than coding, but i knowi can cover that up later, if I am firm with concepts
+**Thoughts** : More time spent on learning today rather than coding, but I know I can cover that up later if I am firm with the concepts.
