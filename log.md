@@ -271,3 +271,12 @@
 **Today's Progress**: Learned about multivariate linear regression and polynomial regression today. Learned to implement gradient descent for multiple variables, need of feature scaling in regression, ways to know if descent rate is suitable and how to change it accordingly. 
 
 **Thoughts** : More time spent on learning today rather than coding, but I know I can cover that up later if I am firm with the concepts.
+
+
+# 100 Days Of Code - Log
+
+### Day 30: June 24, 2020 
+
+**Today's Progress**: Learned about doing multivariate linear regression using Normal equation method. Also got to know when and why to prefer it over gradient descent, it's advantages and disadvantages. Tried implementing it using octave.
+
+**Thoughts** : Introduction to another programing language today. Really cool.
