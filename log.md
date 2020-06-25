@@ -280,3 +280,12 @@
 **Today's Progress**: Learned about doing multivariate linear regression using Normal equation method. Also got to know when and why to prefer it over gradient descent, it's advantages and disadvantages. Tried implementing it using octave.
 
 **Thoughts** : Introduction to another programing language today. Really cool.
+
+
+# 100 Days Of Code - Log
+
+### Day 31: June 25, 2020 
+
+**Today's Progress**: Learned how to vectorise algorithms  in problems in order to increase efficiency and better computation. Also learned basic functions and syntax in octave. Will work on the problems tomorrow. 
+
+**Thoughts** : Couldn't learn much today. Will definitely compensate for it tomorrow.
