@@ -289,3 +289,12 @@
 **Today's Progress**: Learned how to vectorise algorithms  in problems in order to increase efficiency and better computation. Also learned basic functions and syntax in octave. Will work on the problems tomorrow. 
 
 **Thoughts** : Couldn't learn much today. Will definitely compensate for it tomorrow.
+
+
+# 100 Days Of Code - Log
+
+### Day 32: June 26, 2020 
+
+**Today's Progress**: Applied linear regression  on a couple of datasets using gradient descent algorithm and normal equation method. 
+
+**Thoughts** : Reading about things is fine but seeing things work gives the real understanding. A month of effort has started to manifest.
