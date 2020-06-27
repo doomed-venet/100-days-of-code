@@ -298,3 +298,12 @@
 **Today's Progress**: Applied linear regression  on a couple of datasets using gradient descent algorithm and normal equation method. 
 
 **Thoughts** : Reading about things is fine but seeing things work gives the real understanding. A month of effort has started to manifest.
+
+
+# 100 Days Of Code - Log
+
+### Day 33: June 27, 2020 
+
+**Today's Progress**: Learned about classification today using logistic regression algorithm. Saw the working of a it in a couple of examples. Will try to implement it on some datasets.
+
+**Thoughts** : Slow progress today. Complacency creeping back in me. 
