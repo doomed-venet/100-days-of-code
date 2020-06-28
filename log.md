@@ -307,3 +307,12 @@
 **Today's Progress**: Learned about classification today using logistic regression algorithm. Saw the working of a it in a couple of examples. Will try to implement it on some datasets.
 
 **Thoughts** : Slow progress today. Complacency creeping back in me. 
+
+
+# 100 Days Of Code - Log
+
+### Day 34: June 28, 2020 
+
+**Today's Progress**: Learned about advanced optimization algorithms that can be used in place of gradient descent to compute faster and more accurately. Also learned about multi-class classification by logistic regression using 'one vs rest' method. 
+
+**Thoughts** : Overcame the lazyness by some extent today. The best is yet to come. 
