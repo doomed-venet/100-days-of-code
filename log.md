@@ -316,3 +316,12 @@
 **Today's Progress**: Learned about advanced optimization algorithms that can be used in place of gradient descent to compute faster and more accurately. Also learned about multi-class classification by logistic regression using 'one vs rest' method. 
 
 **Thoughts** : Overcame the lazyness by some extent today. The best is yet to come. 
+
+
+# 100 Days Of Code - Log
+
+### Day 35: June 29, 2020 
+
+**Today's Progress**: Learned about overfitting and underfitting of hypothesis equation. Learned to use regularisation methods to avoid overfitting in linear regression and logistic regression algorithms. 
+
+**Thoughts** : Need to reduce the distractions and code for more time tomorrow. 
