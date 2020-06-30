@@ -325,3 +325,12 @@
 **Today's Progress**: Learned about overfitting and underfitting of hypothesis equation. Learned to use regularisation methods to avoid overfitting in linear regression and logistic regression algorithms. 
 
 **Thoughts** : Need to reduce the distractions and code for more time tomorrow. 
+
+
+# 100 Days Of Code - Log
+
+### Day 36: June 30, 2020 
+
+**Today's Progress**: Did a revision of whatever I've learned till now. Tried a few problems and also tried the problems I've already done before. 
+
+**Thoughts** : Didn't learn anything new today, but I think retention is an important part of the process.
