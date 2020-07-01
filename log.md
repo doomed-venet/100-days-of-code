@@ -334,3 +334,12 @@
 **Today's Progress**: Did a revision of whatever I've learned till now. Tried a few problems and also tried the problems I've already done before. 
 
 **Thoughts** : Didn't learn anything new today, but I think retention is an important part of the process.
+
+
+# 100 Days Of Code - Log
+
+### Day 37: July 1, 2020 
+
+**Today's Progress**: Tried a few problems on logistic regression. Used octave for doing all that. 
+
+**Thoughts** : Really glad to see things working.  I'm amazed by the difference this challenge has brought in me.
