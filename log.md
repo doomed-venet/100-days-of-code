@@ -343,3 +343,12 @@
 **Today's Progress**: Tried a few problems on logistic regression. Used octave for doing all that. 
 
 **Thoughts** : Really glad to see things working.  I'm amazed by the difference this challenge has brought in me.
+
+
+# 100 Days Of Code - Log
+
+### Day 38: July 2, 2020 
+
+**Today's Progress**: Started learning about neural networks today. Tried to understand the working by studying a few basic examples. Also got to learn about multi-class classification using neural networks.
+
+**Thoughts** : I'm just fascinated by the way this thing works even though I'm not entirely sure how it works. Will definitely know that eventually. 
