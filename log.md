@@ -352,3 +352,12 @@
 **Today's Progress**: Started learning about neural networks today. Tried to understand the working by studying a few basic examples. Also got to learn about multi-class classification using neural networks.
 
 **Thoughts** : I'm just fascinated by the way this thing works even though I'm not entirely sure how it works. Will definitely know that eventually. 
+
+
+# 100 Days Of Code - Log
+
+### Day 38: July 2, 2020 
+
+**Today's Progress**: Tried a problem on  neural networks today.  Successful used the logistic regression algorithm and 'one vs all' classification algorithm in a neural network with one hidden layer. 
+
+**Thoughts** : Obviously I didn't make the entire thing since I don't know many things yet, but I'll learn that soon
