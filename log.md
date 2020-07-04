@@ -361,3 +361,12 @@
 **Today's Progress**: Tried a problem on  neural networks today.  Successful used the logistic regression algorithm and 'one vs all' classification algorithm in a neural network with one hidden layer. 
 
 **Thoughts** : Obviously I didn't make the entire thing since I don't know many things yet, but I'll learn that soon
+
+
+# 100 Days Of Code - Log
+
+### Day 38: July 2, 2020 
+
+**Today's Progress**:Learned about computation of cost function in neural networks and finding it's min using backpropagation algorithm.  
+
+**Thoughts** : Things completely went over my head like a bouncer. Hopefully some practice would help in understanding.
