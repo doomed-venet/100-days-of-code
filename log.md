@@ -370,3 +370,12 @@
 **Today's Progress**:Learned about computation of cost function in neural networks and finding it's min using backpropagation algorithm.  
 
 **Thoughts** : Things completely went over my head like a bouncer. Hopefully some practice would help in understanding.
+
+
+# 100 Days Of Code - Log
+
+### Day 38: July 2, 2020 
+
+**Today's Progress**:Learned about gradient checking inorder to verify the working of back-propagation algorithm. Summarised all the steps involved in designing a neural network for a classification problem.
+
+**Thoughts** : All set to get my hands dirty now!
