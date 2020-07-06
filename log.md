@@ -356,7 +356,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 38: July 2, 2020 
+### Day 39: July 3, 2020 
 
 **Today's Progress**: Tried a problem on  neural networks today.  Successful used the logistic regression algorithm and 'one vs all' classification algorithm in a neural network with one hidden layer. 
 
@@ -365,7 +365,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 38: July 2, 2020 
+### Day 40: July 4, 2020 
 
 **Today's Progress**:Learned about computation of cost function in neural networks and finding it's min using backpropagation algorithm.  
 
@@ -374,8 +374,17 @@
 
 # 100 Days Of Code - Log
 
-### Day 38: July 2, 2020 
+### Day 41: July 5, 2020 
 
 **Today's Progress**:Learned about gradient checking inorder to verify the working of back-propagation algorithm. Summarised all the steps involved in designing a neural network for a classification problem.
 
 **Thoughts** : All set to get my hands dirty now!
+
+
+# 100 Days Of Code - Log
+
+### Day 42: July 6, 2020 
+
+**Today's Progress**:  Implemented neural networks today. Task was to classify handwritten digits. As a beginneri used 1 hidden layer, so it's a bit hard-coded. Still got an unexpected result after regularization, which I'll sort out tomorrow.
+
+**Thoughts** : Got very frustrated today because there are so things to keep in mind and I had to debug so many times. I'm glad it worked out eventually.
