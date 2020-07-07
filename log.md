@@ -388,3 +388,12 @@
 **Today's Progress**:  Implemented neural networks today. Task was to classify handwritten digits. As a beginneri used 1 hidden layer, so it's a bit hard-coded. Still got an unexpected result after regularization, which I'll sort out tomorrow.
 
 **Thoughts** : Got very frustrated today because there are so things to keep in mind and I had to debug so many times. I'm glad it worked out eventually.
+
+
+# 100 Days Of Code - Log
+
+### Day 43: July 7, 2020 
+
+**Today's Progress**:  Learned about evaluation of hypothesis so that the hypothesis fits properly to the data. Also learned how to select the order of hypothesis, and divide training set for testing and cross validation. 
+
+**Thoughts** : All this may be boring to read, but it's really crucial for proper modelling of learning algorithms.
