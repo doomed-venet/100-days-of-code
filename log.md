@@ -397,3 +397,12 @@
 **Today's Progress**:  Learned about evaluation of hypothesis so that the hypothesis fits properly to the data. Also learned how to select the order of hypothesis, and divide training set for testing and cross validation. 
 
 **Thoughts** : All this may be boring to read, but it's really crucial for proper modelling of learning algorithms.
+
+
+# 100 Days Of Code - Log
+
+### Day 44: July 8, 2020 
+
+**Today's Progress**:  Learned about evaluation of bias and variance in a learning algorithm by testing and cross validation. Also got to know about learning curves that help to evaluate these.
+
+**Thoughts** : These methods enable us to design more accurate and generalized learning algorithm.
