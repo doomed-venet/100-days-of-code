@@ -406,3 +406,11 @@
 **Today's Progress**:  Learned about evaluation of bias and variance in a learning algorithm by testing and cross validation. Also got to know about learning curves that help to evaluate these.
 
 **Thoughts** : These methods enable us to design more accurate and generalized learning algorithm.
+
+# 100 Days Of Code - Log
+
+### Day 45: July 9, 2020 
+
+**Today's Progress**:  Did a revision of all the things I've learned about neural networks. Tried a few examples of NN with a single hidden layer, plotted learning plots and  performance curves. 
+
+**Thoughts** : The day was spent on  trying to visualise all that was going on because there's so much to keep in mind about neural network algorithm. 
