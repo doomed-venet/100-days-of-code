@@ -414,3 +414,12 @@
 **Today's Progress**:  Did a revision of all the things I've learned about neural networks. Tried a few examples of NN with a single hidden layer, plotted learning plots and  performance curves. 
 
 **Thoughts** : The day was spent on  trying to visualise all that was going on because there's so much to keep in mind about neural network algorithm. 
+
+
+# 100 Days Of Code - Log
+
+### Day 46: July 10, 2020 
+
+**Today's Progress**:  Learned about large margin classification by using support vector machines. Learned how kernel (Gaussian kernel) is used in SVM, and how its parameter affects the classification model. 
+
+**Thoughts** : Most of the day was spent on learning. Couldn't code much today but the brainstorming felt enough. 
