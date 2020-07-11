@@ -423,3 +423,12 @@
 **Today's Progress**:  Learned about large margin classification by using support vector machines. Learned how kernel (Gaussian kernel) is used in SVM, and how its parameter affects the classification model. 
 
 **Thoughts** : Most of the day was spent on learning. Couldn't code much today but the brainstorming felt enough. 
+
+
+# 100 Days Of Code - Log
+
+### Day 47: July 11, 2020 
+
+**Today's Progress**:  Learned about proper kernel selection for SHM based on the size of training set and features. 
+
+**Thoughts** : Ready to jump into some projects now.
