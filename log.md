@@ -432,3 +432,12 @@
 **Today's Progress**:  Learned about proper kernel selection for SHM based on the size of training set and features. 
 
 **Thoughts** : Ready to jump into some projects now.
+
+
+# 100 Days Of Code - Log
+
+### Day 48: July 12, 2020 
+
+**Today's Progress**:  Tried a couple of problems on regression. Plotted the learning curves for training and test data, and accordingly varied the regularization parameter and training set size to get optimum performance from the learning algorithm.
+
+**Thoughts** : Read a research paper today on the application of deep neural networks on developing real time classification of arm position based on upper limb muscle responses. Really fascinated and excited to work on something like that soon. 
