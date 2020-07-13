@@ -441,3 +441,12 @@
 **Today's Progress**:  Tried a couple of problems on regression. Plotted the learning curves for training and test data, and accordingly varied the regularization parameter and training set size to get optimum performance from the learning algorithm.
 
 **Thoughts** : Read a research paper today on the application of deep neural networks on developing real time classification of arm position based on upper limb muscle responses. Really fascinated and excited to work on something like that soon. 
+
+
+# 100 Days Of Code - Log
+
+### Day 48: July 12, 2020 
+
+**Today's Progress**:  Started working on scikit learn today. Tried the Iris Classification problem in Jupyter notebook using SVM and K-NN learning methods. 
+
+**Thoughts** : K-NN was new for me, and I am really fascinated to learn something so cheeky and smart way of learning. Whoever thought of this thing has all my respect. 
