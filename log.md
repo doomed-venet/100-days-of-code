@@ -445,7 +445,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 48: July 12, 2020 
+### Day 49: July 13, 2020 
 
 **Today's Progress**:  Started working on scikit learn today. Tried the Iris Classification problem in Jupyter notebook using SVM and K-NN learning methods. 
 
