@@ -450,3 +450,12 @@
 **Today's Progress**:  Started working on scikit learn today. Tried the Iris Classification problem in Jupyter notebook using SVM and K-NN learning methods. 
 
 **Thoughts** : K-NN was new for me, and I am really fascinated to learn something so cheeky and smart way of learning. Whoever thought of this thing has all my respect. 
+
+
+# 100 Days Of Code - Log
+
+### Day 50: July 14, 2020 
+
+**Today's Progress**:  Learned about some basic feature preprocessing methods like feature normalisation and polynomial-features, learning methods like Ridge, Lasso and polynomial regression in Sklearn. 
+
+**Thoughts** : 50th day it is! 
