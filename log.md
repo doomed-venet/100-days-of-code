@@ -459,3 +459,12 @@
 **Today's Progress**:  Learned about some basic feature preprocessing methods like feature normalisation and polynomial-features, learning methods like Ridge, Lasso and polynomial regression in Sklearn. 
 
 **Thoughts** : 50th day it is! 
+
+
+# 100 Days Of Code - Log
+
+### Day 51: July 15, 2020 
+
+**Today's Progress**:  Implemented SVM methods in Sklearn using linear , RBF and polynomial kernels on a couple of  datasets. Plotted learning curves and performance curvesforbthe same and set the  values of parameters for optimal prediction. 
+
+**Thoughts** : Finally I feel like doing something that real. Implementation is where the fun begins! 
