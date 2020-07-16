@@ -468,3 +468,12 @@
 **Today's Progress**:  Implemented SVM methods in Sklearn using linear , RBF and polynomial kernels on a couple of  datasets. Plotted learning curves and performance curvesforbthe same and set the  values of parameters for optimal prediction. 
 
 **Thoughts** : Finally I feel like doing something that real. Implementation is where the fun begins! 
+
+
+# 100 Days Of Code - Log
+
+### Day 52: July 16, 2020 
+
+**Today's Progress**:  Tried classification of a processed EMG signal dataset using logistic regression and  SVM tools  in Sklearn. Used precision, recall, accuracy , confusion matrix and F1 score  to determine the performance of the learning models. Determined the values of hyperparameters for optimal performance. Determined the values of hyperparameters for optimal performance
+
+**Thoughts** : Working with  real and  unprocessed data; that's where real learning lies. 
