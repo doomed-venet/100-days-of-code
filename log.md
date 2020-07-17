@@ -477,3 +477,12 @@
 **Today's Progress**:  Tried classification of a processed EMG signal dataset using logistic regression and  SVM tools  in Sklearn. Used precision, recall, accuracy , confusion matrix and F1 score  to determine the performance of the learning models. Determined the values of hyperparameters for optimal performance. Determined the values of hyperparameters for optimal performance
 
 **Thoughts** : Working with  real and  unprocessed data; that's where real learning lies. 
+
+# 100 Days Of Code - Log
+
+
+### Day 53: July 17, 2020 
+
+**Today's Progress**:  Started building my project on classification of a processed EMG signal today. Tried coding in a functional manner, which is quite opposite to my reckless way of writing programs. 
+
+**Thoughts** : Organised all the parts of the problem and I'm really satisfied with the way it works.  
