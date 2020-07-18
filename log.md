@@ -486,3 +486,12 @@
 **Today's Progress**:  Started building my project on classification of a processed EMG signal today. Tried coding in a functional manner, which is quite opposite to my reckless way of writing programs. 
 
 **Thoughts** : Organised all the parts of the problem and I'm really satisfied with the way it works.  
+
+
+# 100 Days Of Code - Log
+
+### Day 54: July 18, 2020 
+
+**Today's Progress**:  Tried implementing GridSearchCV to determine the optimum hyperparameters of my SVM today. I don't know if I messed up somewhere, coz it's been a while and the code is still being processed. I thought it would consume less time than the looping method to get the parameters, but it didn't help me much.
+ 
+**Thoughts** : So, I'm leaving it like that and going for a nap. Hopefully I wake up to a fully interpreted code.
