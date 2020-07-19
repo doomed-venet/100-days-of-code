@@ -495,3 +495,12 @@
 **Today's Progress**:  Tried implementing GridSearchCV to determine the optimum hyperparameters of my SVM today. I don't know if I messed up somewhere, coz it's been a while and the code is still being processed. I thought it would consume less time than the looping method to get the parameters, but it didn't help me much.
  
 **Thoughts** : So, I'm leaving it like that and going for a nap. Hopefully I wake up to a fully interpreted code.
+
+
+# 100 Days Of Code - Log
+
+### Day 55: July 18, 2020 
+
+**Today's Progress**:  Tried working on a highly skewed dataset today and got a lot of insight on recall , precision , F1 score and accuracy. 
+ 
+**Thoughts** : I skipped these a few days ago, assuming they won't be so significant topics. Turns out that shortcuts are not allowed here. 
