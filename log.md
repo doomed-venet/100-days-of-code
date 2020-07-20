@@ -504,3 +504,12 @@
 **Today's Progress**:  Tried working on a highly skewed dataset today and got a lot of insight on recall , precision , F1 score and accuracy. 
  
 **Thoughts** : I skipped these a few days ago, assuming they won't be so significant topics. Turns out that shortcuts are not allowed here. 
+
+
+# 100 Days Of Code - Log
+
+### Day 56: July 19, 2020 
+
+**Today's Progress**:  Used Hold-out validation method for tuning the hyperparameters. Got familiarised with several parameters available in the learning models and made full use of them. 
+ 
+**Thoughts** : All the day's effort  summed up to a 1.7% improvement in the accuracy, which is a lot considering the model now works at 98.8% accuracy. 
