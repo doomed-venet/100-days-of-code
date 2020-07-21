@@ -513,3 +513,12 @@
 **Today's Progress**:  Used Hold-out validation method for tuning the hyperparameters. Got familiarised with several parameters available in the learning models and made full use of them. 
  
 **Thoughts** : All the day's effort  summed up to a 1.7% improvement in the accuracy, which is a lot considering the model now works at 98.8% accuracy. 
+
+
+# 100 Days Of Code - Log
+
+### Day 57: July 20, 2020 
+
+**Today's Progress**:  Started with Unsupervised learning today. Learned about clustering of unlabelled data using k-means algorithm. Tried it on a few sets of data to understand it's working.
+ 
+**Thoughts** : I don't understand how someone came up with this algorithm. I just didn't get the intuition of it. 
