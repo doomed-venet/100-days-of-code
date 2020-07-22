@@ -499,7 +499,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 55: July 18, 2020 
+### Day 55: July 19, 2020 
 
 **Today's Progress**:  Tried working on a highly skewed dataset today and got a lot of insight on recall , precision , F1 score and accuracy. 
  
@@ -508,7 +508,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 56: July 19, 2020 
+### Day 56: July 20, 2020 
 
 **Today's Progress**:  Used Hold-out validation method for tuning the hyperparameters. Got familiarised with several parameters available in the learning models and made full use of them. 
  
@@ -517,7 +517,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 57: July 20, 2020 
+### Day 57: July 21, 2020 
 
 **Today's Progress**:  Started with Unsupervised learning today. Learned about clustering of unlabelled data using k-means algorithm. Tried it on a few sets of data to understand it's working.
  
