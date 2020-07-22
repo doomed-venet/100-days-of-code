@@ -522,3 +522,12 @@
 **Today's Progress**:  Started with Unsupervised learning today. Learned about clustering of unlabelled data using k-means algorithm. Tried it on a few sets of data to understand it's working.
  
 **Thoughts** : I don't understand how someone came up with this algorithm. I just didn't get the intuition of it. 
+
+
+# 100 Days Of Code - Log
+
+### Day 58: July 22, 2020 
+
+**Today's Progress**:  Learned about anomaly detection and Gaussian distribution today. Studied the algorithm for anomaly detection.
+
+**Thoughts** : Really disappointedwith my progress today. Hopefully i will cover up tomorrow. 
