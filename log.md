@@ -531,3 +531,12 @@
 **Today's Progress**:  Learned about anomaly detection and Gaussian distribution today. Studied the algorithm for anomaly detection.
 
 **Thoughts** : Really disappointedwith my progress today. Hopefully i will cover up tomorrow. 
+
+
+# 100 Days Of Code - Log
+
+### Day 59: July 23, 2020 
+
+**Today's Progress**:  Learned about feature reduction and its use in data visualization today. Also started with decision tree .
+
+**Thoughts** : Another disappointing day. Need to focus some more. 
