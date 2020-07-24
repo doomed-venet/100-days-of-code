@@ -540,3 +540,12 @@
 **Today's Progress**:  Learned about feature reduction and its use in data visualization today. Also started with decision tree .
 
 **Thoughts** : Another disappointing day. Need to focus some more. 
+
+
+# 100 Days Of Code - Log
+
+### Day 60: July 24, 2020 
+
+**Today's Progress**: Learned about Decision tree and it's fundamentals. Made a decision tree classifier from scratch using the CART algorithm.
+
+**Thoughts** : Such a basic method that has been taught to us a very early age is now being used for such complex tasks; Data science is really fun. 
