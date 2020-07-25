@@ -549,3 +549,13 @@
 **Today's Progress**: Learned about Decision tree and it's fundamentals. Made a decision tree classifier from scratch using the CART algorithm.
 
 **Thoughts** : Such a basic method that has been taught to us a very early age is now being used for such complex tasks; Data science is really fun. 
+
+
+# 100 Days Of Code - Log
+
+### Day 61: July 25, 2020 
+
+**Today's Progress**: Tried writing the code for SVM classifier using Gaussian kernel from scratch, just to get thorough with the algorithm. 
+
+**Thoughts** : Also, started making a spam classifier, but I guess I'm too tired to continue today.
+
