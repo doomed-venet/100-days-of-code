@@ -559,3 +559,11 @@
 
 **Thoughts** : Also, started making a spam classifier, but I guess I'm too tired to continue today.
 
+
+# 100 Days Of Code - Log
+
+### Day 62: July 26, 2020 
+
+**Today's Progress**: Implemented logistic regression, SVM and decision tree on a  classification task.Fine tuned the parameters using GridSearchCV. Compared the performance of each classifier. 
+
+**Thoughts** : I don't know how I wasted such a beautiful day. I'm glad I am sticking to this challenge though. Not easy at all!
