@@ -567,3 +567,12 @@
 **Today's Progress**: Implemented logistic regression, SVM and decision tree on a  classification task.Fine tuned the parameters using GridSearchCV. Compared the performance of each classifier. 
 
 **Thoughts** : I don't know how I wasted such a beautiful day. I'm glad I am sticking to this challenge though. Not easy at all!
+
+
+# 100 Days Of Code - Log
+
+### Day 63: July 27, 2020 
+
+**Today's Progress**: Learned about the Union-find data structure and the dynamic connectivity problem. Learned about implementations like quick-find and quick-union.
+
+**Thoughts** : Started with algorithms today. Aiming big this time! 
