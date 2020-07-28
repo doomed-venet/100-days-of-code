@@ -576,3 +576,12 @@
 **Today's Progress**: Learned about the Union-find data structure and the dynamic connectivity problem. Learned about implementations like quick-find and quick-union.
 
 **Thoughts** : Started with algorithms today. Aiming big this time! 
+
+
+# 100 Days Of Code - Log
+
+### Day 64: July 28, 2020 
+
+**Today's Progress**: Learned about algorithms to solve dynamic connectivity problem. Learned about implementations  like weighted quick-union and path compression, that greatly optimize the find and union functions.
+
+**Thoughts** : Satisfied with today's work
