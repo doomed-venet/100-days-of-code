@@ -585,3 +585,12 @@
 **Today's Progress**: Learned about algorithms to solve dynamic connectivity problem. Learned about implementations  like weighted quick-union and path compression, that greatly optimize the find and union functions.
 
 **Thoughts** : Satisfied with today's work
+
+
+# 100 Days Of Code - Log
+
+### Day 65: July 29, 2020 
+
+**Today's Progress**: Learned about Precision-Recall curve today. Calculated the micro-average recall and precision of the prediction of an SVM classifier. Also found our the class-wise recall and precision. Finally plotted a precision-recall curve for each class. 
+
+**Thoughts** : Need to understand the intuition of the curve though. What does it convey? 
