@@ -594,3 +594,12 @@
 **Today's Progress**: Learned about Precision-Recall curve today. Calculated the micro-average recall and precision of the prediction of an SVM classifier. Also found our the class-wise recall and precision. Finally plotted a precision-recall curve for each class. 
 
 **Thoughts** : Need to understand the intuition of the curve though. What does it convey? 
+
+
+# 100 Days Of Code - Log
+
+### Day 66: July 30, 2020 
+
+**Today's Progress**: Tried writing code for the incremental dynamic connectivity problem on my own. Firstly did it with quick- find and quick union, then used weighted-union and path-compression. 
+
+**Thoughts** : Learned  about the log*() (iterative log function) today. Really a fascinating function.
