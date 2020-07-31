@@ -603,3 +603,12 @@
 **Today's Progress**: Tried writing code for the incremental dynamic connectivity problem on my own. Firstly did it with quick- find and quick union, then used weighted-union and path-compression. 
 
 **Thoughts** : Learned  about the log*() (iterative log function) today. Really a fascinating function.
+
+
+# 100 Days Of Code - Log
+
+### Day 67: July 31, 2020 
+
+**Today's Progress**: Tried tuning the hyperparameters for a decisiontree-classifier, using gridsearch method, which worked surprisingly faster than gridsearch for SVM or Logistic regression. Tried to plot the precision-recall curve but got some bugs which I'll sort out tomorrow.
+
+**Thoughts** : The more I read the more i realise how less I know. 
