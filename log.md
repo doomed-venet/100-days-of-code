@@ -612,3 +612,12 @@
 **Today's Progress**: Tried tuning the hyperparameters for a decisiontree-classifier, using gridsearch method, which worked surprisingly faster than gridsearch for SVM or Logistic regression. Tried to plot the precision-recall curve but got some bugs which I'll sort out tomorrow.
 
 **Thoughts** : The more I read the more i realise how less I know. 
+
+
+# 100 Days Of Code - Log
+
+### Day 68: August 1, 2020 
+
+**Today's Progress**: Debugged the problems I was facing in the precision-recall curve yesterday. Implemented the decision tree and plotted the ROC for the three classifiers. 
+
+**Thoughts** : Still a bit confused on the parameter tuning for Decision tree. I'm ot sure which  parameters to use for the grid parameters in  GridSearchCV.
