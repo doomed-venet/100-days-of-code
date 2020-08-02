@@ -621,3 +621,12 @@
 **Today's Progress**: Debugged the problems I was facing in the precision-recall curve yesterday. Implemented the decision tree and plotted the ROC for the three classifiers. 
 
 **Thoughts** : Still a bit confused on the parameter tuning for Decision tree. I'm ot sure which  parameters to use for the grid parameters in  GridSearchCV.
+
+
+# 100 Days Of Code - Log
+
+### Day 69: August 2, 2020 
+
+**Today's Progress**: Tried starting with stack today, but realised I don't remember linked list thta well. So, started afresh with linked list implementation in C/C++. Wrote program to insert a node in a linked list and traversing through a linked list. 
+
+**Thoughts** : Had I been focused in the class when this was being thought, I would have been a pro in these topics. But as they say, it's never too late to learn something. Hopefully that's true!
