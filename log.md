@@ -630,3 +630,13 @@
 **Today's Progress**: Tried starting with stack today, but realised I don't remember linked list thta well. So, started afresh with linked list implementation in C/C++. Wrote program to insert a node in a linked list and traversing through a linked list. 
 
 **Thoughts** : Had I been focused in the class when this was being thought, I would have been a pro in these topics. But as they say, it's never too late to learn something. Hopefully that's true!
+
+
+# 100 Days Of Code - Log
+
+### Day 70: August 3, 2020 
+
+**Today's Progress**: Learned about the Percolation problem today, and tried using Union-find functions to solve it. 
+Also wrote a program inserting and deleting a node form any position in a linked list in C++.
+
+**Thoughts** : I think I would need to learn JAVA as well. I think it's fine if I push myself to my limits. I'm having fun. 
