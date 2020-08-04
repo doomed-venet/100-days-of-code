@@ -640,3 +640,12 @@
 Also wrote a program inserting and deleting a node form any position in a linked list in C++.
 
 **Thoughts** : I think I would need to learn JAVA as well. I think it's fine if I push myself to my limits. I'm having fun. 
+
+
+# 100 Days Of Code - Log
+
+### Day 71: August 4, 2020 
+
+**Today's Progress**: Learned about Stack and Queue data-structures, and their respective operations. Implemented them using Array and Linked list.
+
+**Thoughts** : So the collegehas opened now and thus, we are in the most difficultstage of the challenge. Will keepthis going though. 
