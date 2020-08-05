@@ -649,3 +649,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about Stack and Queue data-structures, and their respective operations. Implemented them using Array and Linked list.
 
 **Thoughts** : So the collegehas opened now and thus, we are in the most difficultstage of the challenge. Will keepthis going though. 
+
+
+# 100 Days Of Code - Log
+
+### Day 72: August 5, 2020 
+
+**Today's Progress**: Tried percolation problem implementation using dynamic connectivity data structure and it's Union-find  functions. Unfortunately the course where I'm learning it is in Java, so  I'm just focusing on the logic for now and trying to implement it in C++.
+
+**Thoughts** : Very hectic day coming tomorrow. Really a challengeto keep up with the challenge. 
