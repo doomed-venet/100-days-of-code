@@ -658,3 +658,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Tried percolation problem implementation using dynamic connectivity data structure and it's Union-find  functions. Unfortunately the course where I'm learning it is in Java, so  I'm just focusing on the logic for now and trying to implement it in C++.
 
 **Thoughts** : Very hectic day coming tomorrow. Really a challengeto keep up with the challenge. 
+
+
+# 100 Days Of Code - Log
+
+### Day 73: August 6, 2020 
+
+**Today's Progress**: Revised about model evaluation and selection, classifier decision functions, Precision-Recall curves and ROC curves.  Also, read aboutthe various hyperparameters used in a decisiontree and how they affect classification. 
+
+**Thoughts** : Many assignmentsare due now and I am feeling kinda hectic. Need to set up a time table or schedule to complete them all. 
