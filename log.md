@@ -667,3 +667,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Revised about model evaluation and selection, classifier decision functions, Precision-Recall curves and ROC curves.  Also, read aboutthe various hyperparameters used in a decisiontree and how they affect classification. 
 
 **Thoughts** : Many assignmentsare due now and I am feeling kinda hectic. Need to set up a time table or schedule to complete them all. 
+
+
+# 100 Days Of Code - Log
+
+### Day 74: August 7, 2020 
+
+**Today's Progress**: Practiced Linear regression on some datasets. Tried plotting graphsto visualise overfitting and underfitting classifications.Used R²-score as well to analyse the performanceof classifiers.
+
+**Thoughts** : Couldn't focus  much today coz it's UCL night!! 
