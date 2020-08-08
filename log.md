@@ -676,3 +676,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Practiced Linear regression on some datasets. Tried plotting graphsto visualise overfitting and underfitting classifications.Used R²-score as well to analyse the performanceof classifiers.
 
 **Thoughts** : Couldn't focus  much today coz it's UCL night!! 
+
+
+# 100 Days Of Code - Log
+
+### Day 75: August 8, 2020 
+
+**Today's Progress**: Tried two classification problems today. Used yalidation curve for model selection, plotted learning curves to determine gamma for the SVM classifier and used Lasso regressionand comparedit with a classifier without penalty.
+
+**Thoughts** : Needed this revision today. I had forgotten many little details about pandas and Sklearn. Today's practice really helpedin recalling all those. 
