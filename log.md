@@ -685,3 +685,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Tried two classification problems today. Used yalidation curve for model selection, plotted learning curves to determine gamma for the SVM classifier and used Lasso regressionand comparedit with a classifier without penalty.
 
 **Thoughts** : Needed this revision today. I had forgotten many little details about pandas and Sklearn. Today's practice really helpedin recalling all those. 
+
+
+# 100 Days Of Code - Log
+
+### Day 76: August 9, 2020 
+
+**Today's Progress**: Dived into the theoretical aspects of Sklearn today. Revised the performance metrics, model-selection tools, and impact of hyperparameters on the performance of learning models.
+
+**Thoughts** : Forgetting whatever you've learned a few daysback is reallya horror. I need to carryon revisingevery now and then, otherwise all the effort will be meaninglessin the end. 
