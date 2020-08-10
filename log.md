@@ -694,3 +694,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Dived into the theoretical aspects of Sklearn today. Revised the performance metrics, model-selection tools, and impact of hyperparameters on the performance of learning models.
 
 **Thoughts** : Forgetting whatever you've learned a few daysback is reallya horror. I need to carryon revisingevery now and then, otherwise all the effort will be meaninglessin the end. 
+
+
+# 100 Days Of Code - Log
+
+### Day 77: August 10, 2020 
+
+**Today's Progress**: Practiced working on SVM to make a spam filter. Screwed up something and I'm unable to  improve the performance. Will use Gaussian kernel next and see how it affectsthe performance.
+
+**Thoughts** : Working on Sklearn is way easier than actually coding the algorithms. But it definitely helps in understanding the working of the models
