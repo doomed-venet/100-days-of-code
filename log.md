@@ -703,3 +703,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Practiced working on SVM to make a spam filter. Screwed up something and I'm unable to  improve the performance. Will use Gaussian kernel next and see how it affectsthe performance.
 
 **Thoughts** : Working on Sklearn is way easier than actually coding the algorithms. But it definitely helps in understanding the working of the models
+
+
+# 100 Days Of Code - Log
+
+### Day 78: August 11, 2020 
+
+**Today's Progress**: Learned about printing a linked list is forward and reverseorder using recursion method and , reversed a linked list by iterative and recursive method. Tried writingthe code myself in C++. 
+
+**Thoughts** : Competitive programming actually needs dedication. I wish I had started earlier but anyway, I have to  focus on the present. 
