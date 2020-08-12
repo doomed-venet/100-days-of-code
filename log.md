@@ -712,3 +712,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about printing a linked list is forward and reverseorder using recursion method and , reversed a linked list by iterative and recursive method. Tried writingthe code myself in C++. 
 
 **Thoughts** : Competitive programming actually needs dedication. I wish I had started earlier but anyway, I have to  focus on the present. 
+
+
+# 100 Days Of Code - Log
+
+### Day 79: August 12, 2020 
+
+**Today's Progress**: Learned about Principal Component Analysis . Studied it's problem formulation and algorithm. Also learned about reconstruction from compressed representation and choosingno of principal components.
+
+**Thoughts** : Another UCL night, another day of being distracted throughoutthe day! ;P
