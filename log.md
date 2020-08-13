@@ -721,3 +721,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about Principal Component Analysis . Studied it's problem formulation and algorithm. Also learned about reconstruction from compressed representation and choosingno of principal components.
 
 **Thoughts** : Another UCL night, another day of being distracted throughoutthe day! ;P
+
+
+# 100 Days Of Code - Log
+
+### Day 80: August 13, 2020 
+
+**Today's Progress**: Made a Spam Classifier to detect spam mails. Had to do the preprocessing , feature-extraction from the body of the mails. Used an SVM classifier for classification.
+
+**Thoughts** : Have many thingsto focus right now, which is causinglots of problems to focus on the challenge. Somehow managed to do today's part though. 
