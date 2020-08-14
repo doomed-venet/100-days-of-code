@@ -730,3 +730,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Made a Spam Classifier to detect spam mails. Had to do the preprocessing , feature-extraction from the body of the mails. Used an SVM classifier for classification.
 
 **Thoughts** : Have many thingsto focus right now, which is causinglots of problems to focus on the challenge. Somehow managed to do today's part though. 
+
+
+# 100 Days Of Code - Log
+
+### Day 81: August 14, 2020 
+
+**Today's Progress**: Tried classification of highly skewed datasets. Used knowledgeon recall , precision f1-score and other metrics to find optimum classification models. 
+
+**Thoughts** : Plotted recall-precision curves and  ROC curves to get insight about the performance of the Classifiers.
