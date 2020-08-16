@@ -739,3 +739,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Tried classification of highly skewed datasets. Used knowledgeon recall , precision f1-score and other metrics to find optimum classification models. 
 
 **Thoughts** : Plotted recall-precision curves and  ROC curves to get insight about the performance of the Classifiers.
+
+
+# 100 Days Of Code - Log
+
+### Day 82: August 16, 2020 
+
+**Today's Progress**: Learned about Generics, and iterators for stack and queue. Wrote code for some  simple applications in C++. Also learned about Bags.
+
+**Thoughts** : I was unable to code yesterday, and spent my time in theory instead. Will compensate that at the end.
