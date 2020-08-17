@@ -748,3 +748,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about Generics, and iterators for stack and queue. Wrote code for some  simple applications in C++. Also learned about Bags.
 
 **Thoughts** : I was unable to code yesterday, and spent my time in theory instead. Will compensate that at the end.
+
+
+# 100 Days Of Code - Log
+
+### Day 83: August 17, 2020 
+
+**Today's Progress**: Tried writing the cide for percolation problem today. Used unionfind algorithm and found out percolation statistics, percolation probability and eventually determined the percolation threshold .
+
+**Thoughts** : Had to scratch my head for hours to get the code right in Java. Need to exploreit more.
