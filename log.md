@@ -757,3 +757,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Tried writing the cide for percolation problem today. Used unionfind algorithm and found out percolation statistics, percolation probability and eventually determined the percolation threshold .
 
 **Thoughts** : Had to scratch my head for hours to get the code right in Java. Need to exploreit more.
+
+
+# 100 Days Of Code - Log
+
+### Day 84: August 18, 2020 
+
+**Today's Progress**: Started with Natural language processing today. Learned some basic functions in NLTK and saw some that have  implemented it. Also learned some more about K-means algorithm for clustering. 
+
+**Thoughts** : I wonder if I could do something by implementing clustering as well as NLP?🤔
