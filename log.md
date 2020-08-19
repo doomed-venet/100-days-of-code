@@ -766,3 +766,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Started with Natural language processing today. Learned some basic functions in NLTK and saw some that have  implemented it. Also learned some more about K-means algorithm for clustering. 
 
 **Thoughts** : I wonder if I could do something by implementing clustering as well as NLP?🤔
+
+
+# 100 Days Of Code - Log
+
+### Day 85: August 19, 2020 
+
+**Today's Progress**: Wrote a program that classifies the sentiment of book reviews. Used Natural language Processing techniques to prepare and process texts, for predicting their sentiment.
+
+**Thoughts** : Programs like this can be useful for libraries and book vendorsto predict demand based on user reviews. 
