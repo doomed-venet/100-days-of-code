@@ -775,3 +775,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Wrote a program that classifies the sentiment of book reviews. Used Natural language Processing techniques to prepare and process texts, for predicting their sentiment.
 
 **Thoughts** : Programs like this can be useful for libraries and book vendorsto predict demand based on user reviews. 
+
+
+# 100 Days Of Code - Log
+
+### Day 86: August 20, 2020 
+
+**Today's Progress**: Learned about web scraping today. Saw how Request and BeautifulSoap modules in python can be used for web crawlers and parsing the data respectively. Did a basic implementation to see how things work. 
+
+**Thoughts** : Planning to use it to get data for the ML algorithms.
