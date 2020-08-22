@@ -793,3 +793,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about Softmax function and its use in Softmax Regression for multi-class classification. Used multinomial-softmax regression function to perform a multi-class classification, which I had previously done using one vs rest approach. 
 
 **Thoughts** : Also learned about ensembling methods and will try to use them in my upcoming projects.
+
+
+# 100 Days Of Code - Log
+
+### Day 88: August 22, 2020 
+
+**Today's Progress**: Learned about Naive Bayes  algorithm and used the Bayesian Classifier today for binary classification on a couple of known datasets. 
+
+**Thoughts** : Started with some graphical heuristics, because I am very poor in presenting data  using graphs. 
