@@ -802,3 +802,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about Naive Bayes  algorithm and used the Bayesian Classifier today for binary classification on a couple of known datasets. 
 
 **Thoughts** : Started with some graphical heuristics, because I am very poor in presenting data  using graphs. 
+
+
+# 100 Days Of Code - Log
+
+### Day 89: August 23, 2020 
+
+**Today's Progress**: Spent the day on MATLAB today. Tried plotting the step and impulse response of 1st and 2nd order systems. Also wrote code to find out the characteristics of the second order system like Settling time, Rise time, Peak overshoot etc.
+
+**Thoughts** : Kinda feels like I'm cheating, but it had coding too so I guess it counts.
