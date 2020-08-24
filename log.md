@@ -811,3 +811,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Spent the day on MATLAB today. Tried plotting the step and impulse response of 1st and 2nd order systems. Also wrote code to find out the characteristics of the second order system like Settling time, Rise time, Peak overshoot etc.
 
 **Thoughts** : Kinda feels like I'm cheating, but it had coding too so I guess it counts.
+
+
+# 100 Days Of Code - Log
+
+### Day 90: August 24, 2020 
+
+**Today's Progress**: Learned about PCA and it's implementation in dimensionality deduction. The algorithm is still a mystery to me, but it works fine. Also implemented K-means algorithm for clustering of a given data. 
+
+**Thoughts** : Another weapon added to my arsenal! Btw, I'm into the nervous 90's!
