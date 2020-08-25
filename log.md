@@ -820,3 +820,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about PCA and it's implementation in dimensionality deduction. The algorithm is still a mystery to me, but it works fine. Also implemented K-means algorithm for clustering of a given data. 
 
 **Thoughts** : Another weapon added to my arsenal! Btw, I'm into the nervous 90's!
+
+
+# 100 Days Of Code - Log
+
+### Day 91: August 25, 2020 
+
+**Today's Progress**: Learned how to check balanced parentheses, and reversing a string or linked list using stack. Also read about infix, prefix and postfix, and infix to postfix conversion using stack.
+
+**Thoughts** : I hope I'm not too late to learnall these. Need to boost up my speed.
