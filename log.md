@@ -829,3 +829,13 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned how to check balanced parentheses, and reversing a string or linked list using stack. Also read about infix, prefix and postfix, and infix to postfix conversion using stack.
 
 **Thoughts** : I hope I'm not too late to learnall these. Need to boost up my speed.
+
+
+# 100 Days Of Code - Log
+
+### Day 92: August 26, 2020 
+
+**Today's Progress**: Learned how to implement PCA using MATLAB. Learned about its working and algorithm used. Computed covariance matrix and eigen vectors  to implement PCA for data compression and visualisation.
+
+**Thoughts** : PCA is such a cool algorithm and the way it compresses data while  maintaining a certain level of variance in the data; really fascinating. Need to be careful not to confuse it with linear regression though.
+
