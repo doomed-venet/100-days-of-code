@@ -839,3 +839,11 @@ Also wrote a program inserting and deleting a node form any position in a linked
 
 **Thoughts** : PCA is such a cool algorithm and the way it compresses data while  maintaining a certain level of variance in the data; really fascinating. Need to be careful not to confuse it with linear regression though.
 
+
+# 100 Days Of Code - Log
+
+### Day 93: August 27, 2020 
+
+**Today's Progress**: Learned about ensemble methods in machine learning.  Got an understanding on how they work to improve classification, decrease bias and variance , and improve generalization in the model.
+
+**Thoughts** : Tried a few Sklearn ensembling models , namely Bagging, Boosting, Adaboost and XGBoost into known data to see their working.
