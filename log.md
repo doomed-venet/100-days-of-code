@@ -847,3 +847,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about ensemble methods in machine learning.  Got an understanding on how they work to improve classification, decrease bias and variance , and improve generalization in the model.
 
 **Thoughts** : Tried a few Sklearn ensembling models , namely Bagging, Boosting, Adaboost and XGBoost into known data to see their working.
+
+
+# 100 Days Of Code - Log
+
+### Day 94: August 28, 2020 
+
+**Today's Progress**: Learned about Anomaly detection today.Used the Gaussian probability density for it. Tried developing and implementing an anomaly detection algorithm and observed it's working.
+
+**Thoughts** : Still have a lot of weakness in the Maths involved, something that can be improved only be revision and  implementation.
