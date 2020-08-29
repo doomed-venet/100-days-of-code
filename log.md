@@ -856,3 +856,5 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about Anomaly detection today.Used the Gaussian probability density for it. Tried developing and implementing an anomaly detection algorithm and observed it's working.
 
 **Thoughts** : Still have a lot of weakness in the Maths involved, something that can be improved only be revision and  implementation.
+
+
