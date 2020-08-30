@@ -858,3 +858,10 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Thoughts** : Still have a lot of weakness in the Maths involved, something that can be improved only be revision and  implementation.
 
 
+# 100 Days Of Code - Log
+
+### Day 95: August 30, 2020 
+
+**Today's Progress**: Working on developing an XGBoost classifier for my upcoming project. So I set up a conda environment, imported the XGBoost library and implemented on a dataset I've worked before. It worked great and gave much higher accuracy.
+
+**Thoughts** : Next, I'll be using it on my project data. 
