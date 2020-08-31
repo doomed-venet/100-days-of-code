@@ -865,3 +865,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Working on developing an XGBoost classifier for my upcoming project. So I set up a conda environment, imported the XGBoost library and implemented on a dataset I've worked before. It worked great and gave much higher accuracy.
 
 **Thoughts** : Next, I'll be using it on my project data. 
+
+
+# 100 Days Of Code - Log
+
+### Day 96: August 31, 2020 
+
+**Today's Progress**: Learned about multivariate Gaussian distribution today. Saw how the diagonal  and off-diagonal elements of the covariance matrix affect the distribution, and the effects of changing the mean. Used the multivariate Gaussian distribution to implement anomaly detection.
+
+**Thoughts** : It was a good clarification as to why anomaly detection is different from other supervised learning methods. You may not have any idea what an anomaly looks like, which is not the case with general  classification problems. 
