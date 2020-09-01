@@ -874,3 +874,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Learned about multivariate Gaussian distribution today. Saw how the diagonal  and off-diagonal elements of the covariance matrix affect the distribution, and the effects of changing the mean. Used the multivariate Gaussian distribution to implement anomaly detection.
 
 **Thoughts** : It was a good clarification as to why anomaly detection is different from other supervised learning methods. You may not have any idea what an anomaly looks like, which is not the case with general  classification problems. 
+
+
+# 100 Days Of Code - Log
+
+### Day 97: September 1, 2020 
+
+**Today's Progress**: Worked on a classification problem using XGBoost library in python. Processed the data, scaled it and performed hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
+
+**Thoughts** : With the amount of parameters I've given, legends say its still running.
