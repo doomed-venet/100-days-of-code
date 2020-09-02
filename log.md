@@ -883,3 +883,12 @@ Also wrote a program inserting and deleting a node form any position in a linked
 **Today's Progress**: Worked on a classification problem using XGBoost library in python. Processed the data, scaled it and performed hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
 
 **Thoughts** : With the amount of parameters I've given, legends say its still running.
+
+
+# 100 Days Of Code - Log
+
+### Day 98: September 2, 2020 
+
+**Today's Progress**: Performed performance testing on the Classification model I made yesterday. Used accuracy, F1-score, Precision-Recall curve, Roc curve, confusion matrix and a few more metrics to test the performance of my model.  Tired but satisfied.
+
+**Thoughts** : The task wasn't as hard as I thoughtit would be. I'm glad I'mable to learn new things withinsuch short spanof time. Looking forwardto the next task. 
